@@ -3,10 +3,8 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -28,4 +26,4 @@ Project is: _finished_.
 Based on Codecademy example.
 
 ## Contact
-Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!# dasmotoProject
+Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!
